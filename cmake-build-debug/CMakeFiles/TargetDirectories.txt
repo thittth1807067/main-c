@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Admin 88/CLionProjects/myc-demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Admin 88/CLionProjects/myc-demo/cmake-build-debug/CMakeFiles/myc_demo.dir
+/cygdrive/c/Users/Admin 88/CLionProjects/myc-demo/cmake-build-debug/CMakeFiles/edit_cache.dir
